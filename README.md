@@ -1,2 +1,3 @@
-# Resume
-Making my Resume using Html,CSS and javascript
+# Creating a Resume using Html,CSS and javascript
+
+ 
